@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+div{
+    height: 50px;
+    width: 300px;
+    margin: 20% auto;
+   
+    text-align: center;
+    box-shadow: 2px 2px 10px rgb(21, 15, 16);
+}
+
+div span{
+display: inline-block;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+cursor: pointer;
+border: 2px solid rgb(0,0,0);
+margin: 5px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 10px rgb(21, 15, 16);
+   
+    
+}
